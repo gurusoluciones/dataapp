@@ -2979,6 +2979,10 @@ body {
     text-align: center !important;
   }
 }
+.cid-rEwq4rBlvu .mbr-text,
+.cid-rEwq4rBlvu .mbr-section-btn {
+  text-align: left;
+}
 .cid-rEwq5hZlIN {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3019,6 +3023,13 @@ body {
   .cid-rEwq5hZlIN .mbr-section-btn {
     text-align: center !important;
   }
+}
+.cid-rEwq5hZlIN .mbr-title {
+  text-align: left;
+}
+.cid-rEwq5hZlIN .mbr-text,
+.cid-rEwq5hZlIN .mbr-section-btn {
+  text-align: left;
 }
 .cid-rEwq64GgjW {
   padding-top: 0px;
