@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DataApp",
-    "currentPage": "Que_ofrecemos.html",
+    "currentPage": "Inicio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4736,7 +4736,7 @@
     "page5.html": {
       "settings": {
         "title": "PolíticaPriv",
-        "meta_descr": "",
+        "meta_descr": "Somos DataApp una empresa de análisis de mercado",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
