@@ -17,7 +17,7 @@
         "display1Size": 4.25,
         "display2Font": "Rubik",
         "display2Size": 3,
-        "display5Font": "Abril Fatface",
+        "display5Font": "Cardo",
         "display5Size": 1.5,
         "display7Font": "Rubik",
         "display7Size": 1,
@@ -39,6 +39,11 @@
         "css": "'Abril Fatface', display",
         "name": "Abril Fatface",
         "url": "https://fonts.googleapis.com/css?family=Abril+Fatface:400"
+      },
+      {
+        "css": "'Cardo', serif",
+        "name": "Cardo",
+        "url": "https://fonts.googleapis.com/css?family=Cardo:400,400i,700"
       }
     ],
     "favicon": "",
